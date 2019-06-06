@@ -1,0 +1,30 @@
+preprocessing data.dtypes should be integer
+cue is the lateset programming language
+class l (self,name,area):
+	self.name=name
+	self.area=area
+
+Obects in python o1=new df
+modules import xxx as xx
+	from xxx import xx as xx
+pip
+git and github. vcs= version control system
+git gui, git bash
+git init
+git status
+git add .
+git commit -m " "
+
+git configure user.name " "
+git configure user.email "" 
+git remote add origin " repo link "
+git push origin master 
+git merge
+git pull origin master
+git clone "repo url" 
+
+
+iris data set used for clustering(mnist , iris, titanic)
+06-06-2019:Assignment: clustering on iris data set,1nf,2nf,3nf,bcnf
+logistic regression , svm , intro to 
+cborn
