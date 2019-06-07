@@ -28,3 +28,9 @@ iris data set used for clustering(mnist , iris, titanic)
 06-06-2019:Assignment: clustering on iris data set,1nf,2nf,3nf,bcnf
 logistic regression , svm , intro to 
 cborn
+
+github.com/RevanthR/ML
+
+gini index=> g(x)=1-(true^2+false^2)
+
+psf
