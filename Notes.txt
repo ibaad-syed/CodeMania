@@ -34,3 +34,7 @@ github.com/RevanthR/ML
 gini index=> g(x)=1-(true^2+false^2)
 
 psf
+
+exam 12 to 16
+25 qns , 100 mins of time(performance internship)
+Apply(Naive) bayesian classification on iris data set
